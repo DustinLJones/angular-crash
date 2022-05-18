@@ -4,6 +4,7 @@ A quick crash course through Angular with the Task Tracker application. This app
 
 This project is originally from Brad Traversy. For more details watch the [YouTube video](https://www.youtube.com/watch?v=3dHNOWTI7H8&list=WL&index=7) or see his [GitHub repository](https://github.com/bradtraversy/angular-crash-2021).
 
+
 This version of the project is built with strict mode enabled. 
 
 There is only one noticeable change in the application. I have hidden the 'about' link once the user is on the 'about' page
@@ -12,7 +13,7 @@ There is only one noticeable change in the application. I have hidden the 'about
 
 ### Angular Server
 
-The server runs on (http://localhost:4200)
+The server runs on (http://localhost:4200).
 
 ```
 ng serve
@@ -26,6 +27,6 @@ The server runs on (http://localhost:5000). Find more information [here](https:/
 npm run server
 ```
 
-### Font Awesome Icon (Red X in project
+### Font Awesome Icon (Red X in project)
 
 Font Awesome has a component for Angular. Check out the [GitHub repository](https://github.com/FortAwesome/angular-fontawesome)!
